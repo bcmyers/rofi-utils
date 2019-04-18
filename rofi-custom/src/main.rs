@@ -4,7 +4,7 @@ use std::process::{Command, Stdio};
 
 use failure::Error;
 
-const CONFIG: &[(&str, &str)] = &[("background", "~/bin/background")];
+const CONFIG: &[(&str, &str)] = &[("sway-background", "~/bin/sway-background")];
 
 fn main() -> Result<(), Error> {
     let mut args = std::env::args();
