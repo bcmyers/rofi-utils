@@ -1,0 +1,9 @@
+[package]
+name = "rofi-custom"
+version = "0.1.0"
+authors = ["Brian Myers <brian.carl.myers@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+dirs = "1.0"
+failure = "0.1"

@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "rofi",
+    "rofi-custom",
+    "rofi-font-awesome",
+]

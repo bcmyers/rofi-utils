@@ -1,0 +1,10 @@
+[package]
+name = "rofi-font-awesome"
+version = "0.1.0"
+authors = ["Brian Myers <brian.carl.myers@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1"
+rofi = { path = "../rofi" }
+wl-clipboard-rs = "0.3"
