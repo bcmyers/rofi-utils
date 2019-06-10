@@ -5,5 +5,5 @@ authors = ["Brian Myers <brian.carl.myers@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-dirs = "1.0"
+dirs = "2.0"
 failure = "0.1"
